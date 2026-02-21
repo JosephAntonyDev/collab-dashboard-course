@@ -1,4 +1,4 @@
-# 🤖 MecaDash: Collaborative Dashboard
+# 🤖 IngDash: Collaborative Dashboard
 
 Bienvenido al taller de **Git & GitHub** febrero 2026. El objetivo de este proyecto es construir un panel de control colaborativo donde cada integrante registre su propio "módulo" de trabajo.
 
